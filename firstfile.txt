@@ -3,3 +3,5 @@ Adding the second line for git pull command
 Adding line for ssh testing
 New text
 
+Tesing out the test editor
+
