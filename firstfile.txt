@@ -3,3 +3,7 @@ second line
 Adding for comparison windiff
 
 Working Dir change
+
+Adding this line to add file to staging
+
+Adding this line for the additional to staging
