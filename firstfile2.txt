@@ -1,5 +1,3 @@
 file
 second line
 Adding line for diff
-
-
