@@ -1,8 +1,6 @@
-first file
-Adding the second line for git pull command
+file
+second line
 Adding line for ssh testing
-New text
-
 Tesing out the test editor
 Diff text
 
