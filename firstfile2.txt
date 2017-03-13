@@ -1,3 +1,4 @@
 file
 second line
 Adding line for diff
+Adding this entry to compare remote vs local
